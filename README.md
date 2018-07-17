@@ -10,17 +10,8 @@ word_counts.txt (at this repository)
 [model.ckpt-1000000.index](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model) (at this repository. Place it in the same folder as the model checkpoint used.)
 
 ## Show and Tell : A Neural Image Caption Generator
-Pretrained model for Tensorflow implementation found at [tensorflow/models](https://github.com/tensorflow/models/) of the image-to-text paper described at:
+Pretrained model for Tensorflow implementation found at [tensorflow/models](https://github.com/tensorflow/models/).
 
-"Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge."
-
-Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan.
-
-Full text available at: http://arxiv.org/abs/1609.06647
-
-## Contact
-
-Kranthi Kiran GV ***([KranthiGV](https://github.com/KranthiGV) | [kranthi.gv@gmail.com](mailto:kranthi.gv@gmail.com))***
 
 ## Generating Captions
 
