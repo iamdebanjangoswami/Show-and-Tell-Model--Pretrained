@@ -21,9 +21,7 @@ Pretrained model for Tensorflow implementation found at [tensorflow/models](http
 [2M iterations finetuned checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2T1RPeDA5djJ6bFE/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)  
 [1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
 
-2) Clone the repository:
-git clone [https://github.com/KranthiGV/Pretrained-Show-and-Tell-model.git](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model.git)
-
+2) 
 ```
 # Path to checkpoint file.
 # Notice there's no data-00000-of-00001 in the CHECKPOINT_PATH environment variable
